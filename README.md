@@ -1,4 +1,4 @@
-# Trigger from Ravi
+# Trigger from Ravi 
 # Week 9/10 lab for WIIT 7501
 
 To work on this lab, we are going to create a new repo by using this template and edit the secrets and variables to allow a push to a Container Registry in Azure.
